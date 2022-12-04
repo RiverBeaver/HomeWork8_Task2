@@ -7,6 +7,7 @@ body {
 }
 
 .conteaner {
+    max-width: 1000px;
     width: 80vw;
     display: flex;
     flex-direction: column;
